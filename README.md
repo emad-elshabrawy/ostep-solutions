@@ -110,12 +110,13 @@ Homework
 Homework solutions will be organized according to the corresponding OSTEP chapters and topics.
 The goal is to use the homework as a way to verify conceptual understanding rather than simply record answers.
 Example structure:
+```text
 homework/
 ├── chapter-01/
 ├── chapter-02/
 ├── chapter-03/
 └── ...
-
+```
 Notes
 The notes/ directory contains personal explanations and observations developed while studying OSTEP.
 Topics may include:
