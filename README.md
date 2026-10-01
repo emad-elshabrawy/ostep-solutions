@@ -76,17 +76,17 @@ ostep-solutions/
 └── README.md
 ```
 
-### 'projects/'
+### projects/
 Contains implementations of the programming projects associated with OSTEP.
 Each project is kept in its own directory and includes the relevant source code, tests, documentation, and supporting files where appropriate.
-### 'homework/'
+### homework/
 Contains my solutions to OSTEP homework and exercises, organized by chapter or topic.
-### 'notes/'
+### notes/
 Contains personal study notes, explanations, observations, and technical references developed while studying the book.
 
 
-##Projects
-###Project 1 — Unix Utilities
+## Projects
+### Project 1 — Unix Utilities
 Status: Completed
 Implemented four Unix-style utilities in C:
 Utility	Description
