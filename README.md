@@ -139,6 +139,7 @@ Topics may include:
 These notes are intended to record my understanding and may evolve as I encounter new material or refine previous explanations.
 Development Practices
 I aim to follow a consistent development process throughout the repository:
+```text
 Read
   ↓
 Understand the requirements
@@ -156,7 +157,7 @@ Debug
 Verify behavior
   ↓
 Document what was learned
-
+```
 Where applicable, C programs are compiled with:
 gcc -Wall -Werror
 
