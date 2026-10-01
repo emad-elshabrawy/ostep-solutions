@@ -1,0 +1,14 @@
+# Compiled executables
+projects/project-01-unix-utilities/wcat/wcat
+projects/project-01-unix-utilities/wgrep/wgrep
+projects/project-01-unix-utilities/wzip/wzip
+projects/project-01-unix-utilities/wunzip/wunzip
+
+# Object files
+*.o
+
+# Test output
+tests-out/
+
+# Generated compressed files
+*.z
