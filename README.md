@@ -75,6 +75,7 @@ ostep-solutions/
 ├── .gitignore
 └── README.md
 ```
+---
 projects/
 Contains implementations of the programming projects associated with OSTEP.
 Each project is kept in its own directory and includes the relevant source code, tests, documentation, and supporting files where appropriate.
@@ -82,6 +83,8 @@ homework/
 Contains my solutions to OSTEP homework and exercises, organized by chapter or topic.
 notes/
 Contains personal study notes, explanations, observations, and technical references developed while studying the book.
+---
+---
 Projects
 Project 1 — Unix Utilities
 Status: Completed
@@ -91,7 +94,7 @@ wcat	Reads and writes file contents, including standard input
 wgrep	Searches text for matching patterns
 wzip	Compresses data using run-length encoding
 wunzip	Decompresses the binary run-length encoding format
-
+---
 
 The implementations were developed incrementally and tested against the supplied project test suites.
 The project also provided practical experience with:
