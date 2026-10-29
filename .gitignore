@@ -1,14 +1,60 @@
+# ==========================================
 # Compiled executables
-projects/project-01-unix-utilities/wcat/wcat
-projects/project-01-unix-utilities/wgrep/wgrep
-projects/project-01-unix-utilities/wzip/wzip
-projects/project-01-unix-utilities/wunzip/wunzip
+# ==========================================
 
-# Object files
+# Project 1: Unix Utilities
+/projects/project-01-unix-utilities/wcat/wcat
+/projects/project-01-unix-utilities/wgrep/wgrep
+/projects/project-01-unix-utilities/wzip/wzip
+/projects/project-01-unix-utilities/wunzip/wunzip
+
+# Homework: Chapter 5 C executables
+/homework/chapter-05/code/Q1/q1
+/homework/chapter-05/code/Q2/q2
+/homework/chapter-05/code/Q3/1st_solution/q3
+/homework/chapter-05/code/Q3/2nd_solution/q3
+/homework/chapter-05/code/Q4/q4
+/homework/chapter-05/code/Q5/q5
+/homework/chapter-05/code/Q6/q6
+/homework/chapter-05/code/Q7/q7
+/homework/chapter-05/code/Q8/q8
+
+# ==========================================
+# Compiled objects and libraries
+# ==========================================
+
 *.o
+*.a
+*.so
+*.so.*
 
-# Test output
+# ==========================================
+# Build directories
+# ==========================================
+
+build/
+cmake-build-*/
+
+# ==========================================
+# Test output and temporary files
+# ==========================================
+
 tests-out/
+*.tmp
+*.swp
+*~
 
+# ==========================================
 # Generated compressed files
+# ==========================================
+
 *.z
+
+# ==========================================
+# Python artifacts
+# ==========================================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
